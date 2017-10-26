@@ -1,72 +1,74 @@
-body{
-	background-color: #777;
-	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-  	font-size: 18px;
-  	text-align: center;
-	}
-
-.container{
-	width: 80%;
-	margin: 0 auto;
+body {
+    background-color: #777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
 }
-.center{
-	background-color: #ebebeb;
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.center {
+    background-color: #ebebeb;
     color: #777;
     margin-bottom: 20px;
     padding: 20px;
 }
 
-.left{
-	background-color: #ebebeb;
+.left {
+    background-color: #ebebeb;
     color: #777;
     margin-bottom: 20px;
-	width: 540px;
-	height: 300px;
-    float:left;
+    width: 540px;
+    height: 300px;
+    float: left;
 }
 
-article{
-	background-color: #777;
-	color: #ebebeb;
-	width: 520px;
-	height: 227px;
-	margin: 10px;
-	position:relative;
+article {
+    background-color: #777;
+    color: #ebebeb;
+    width: 520px;
+    height: 227px;
+    margin: 10px;
+    position: relative;
+    padding-top: 5px;
 
 }
 
-.top{
-	background-color: #ebebeb;
+.top {
+    background-color: #ebebeb;
     color: #777;
     position: absolute;
     width: 500px;
     height: 70px;
-    margin:10px;
+    margin: 10px;
     top: 60px;
 }
 
-.bottom{
-	background-color: #ebebeb;
+.bottom {
+    background-color: #ebebeb;
     color: #777;
     position: absolute;
     width: 500px;
     height: 70px;
-    margin:10px;
+    margin: 10px;
     bottom: 0px;
 }
 
-.right{
-	background-color: #ebebeb;
+.right {
+    background-color: #ebebeb;
     color: #777;
     margin-bottom: 20px;
-	width: 450px;
-	height: 300px;
-    float:right;
+    width: 450px;
+    height: 300px;
+    float: right;
 }
 
-.footer{
-	clear:both;
-	background-color: #ebebeb;
+.footer {
+    clear: both;
+    background-color: #ebebeb;
     color: #777;
     padding: 20px;
 }
